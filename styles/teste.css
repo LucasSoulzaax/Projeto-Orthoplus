@@ -693,5 +693,10 @@ body {
     .cro{
       max-width: 100%;
     }
+
+    .localizacao{
+      text-align: center;
+      
+    }
 }
 
