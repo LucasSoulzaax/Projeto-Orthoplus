@@ -474,7 +474,7 @@ body {
   font-size: 0.9rem;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1700px) {
   #cabecalho {
     padding: 0px 30px;
   }
@@ -495,7 +495,7 @@ body {
   
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
 
 
     #clinica p{
@@ -675,11 +675,22 @@ body {
   
   .form {
     padding: 30px 20px;
+    width: 100%;
   }
   
   #clinica p{
     margin: auto;
   }
-}
 
+
+  .dentista_perfil{
+    img{
+      width: 12rem;
+    }
+  }
+
+    .cro{
+      max-width: 100%;
+    }
+}
 
